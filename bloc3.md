@@ -11,9 +11,9 @@ git add main.js
 git commit -m "feat: unhandled spectral exception"
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191250.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191250.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191257.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191257.png>)
 
 ## Acció 3.12: Inspeccionar les diferències
 
@@ -23,7 +23,7 @@ S'ha comparat el commit infectat amb el commit anterior per identificar la modif
 git diff HEAD~1 HEAD
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191648.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191648.png>)
 
 ## Acció 3.13: Recuperar l'estat segur
 
@@ -35,11 +35,11 @@ git status
 git log --oneline -5
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191304.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191304.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191316.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191316.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191328.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191328.png>)
 
 ## Acció 3.14: Visualitzar l'historial final
 
@@ -50,7 +50,7 @@ git log --oneline --graph --decorate --all
 git branch
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191338.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191338.png>)
 
 ## Acció 3.15: Publicar el repositori a GitHub
 
@@ -63,6 +63,6 @@ git push -u origin feature-nightmare
 git push -u origin feature-sanctuary
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 193537.png>)
+![alt text](<Captura de pantalla 2026-10-22 193537.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 193545.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 193545.png>)

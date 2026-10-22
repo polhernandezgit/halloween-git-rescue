@@ -12,11 +12,11 @@ git init -b main
 git status
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 190643.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 190643.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 190928.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 190928.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 190938.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 190938.png>)
 
 ## Acció 3.2: Configurar la identitat
 
@@ -28,7 +28,7 @@ git config --global user.email "el_teu_correu@example.com"
 git config --global --list
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191001.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191001.png>)
 
 ## Acció 3.3: Crear el fitxer principal i fer el primer commit
 
@@ -39,9 +39,9 @@ git add main.js
 git commit -m "feat: initialize server room monitoring"
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191012.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191012.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191020.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191020.png>)
 
 ## Acció 3.4: Registrar les dues modificacions successives
 
@@ -54,11 +54,11 @@ git add main.js
 git commit -m "feat: display building security status"
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191027.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191027.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191035.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191035.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191042.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191042.png>)
 
 ## Acció 3.5: Consultar l'historial
 
@@ -69,6 +69,6 @@ git log --oneline
 git status
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191050.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191050.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191058.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191058.png>)

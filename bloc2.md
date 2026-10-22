@@ -11,7 +11,7 @@ git branch feature-sanctuary
 git branch
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191106.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191106.png>)
 
 ## Acció 3.7: Modificar la branca nightmare
 
@@ -23,11 +23,11 @@ git add main.js
 git commit -m "feat: inject nightmare security state"
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191113.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191113.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191120.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191120.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191129.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191129.png>)
 
 ## Acció 3.8: Modificar la branca sanctuary
 
@@ -39,11 +39,11 @@ git add main.js
 git commit -m "feat: activate sanctuary security protocol"
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191137.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191137.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191143.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191143.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191154.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191154.png>)
 
 ## Acció 3.9: Integrar les branques
 
@@ -57,11 +57,11 @@ git merge --no-ff feature-sanctuary
 
 La segona integració ha provocat un conflicte perquè les dues branques han modificat la mateixa línia.
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191205.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191205.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191211.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191211.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191219.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191219.png>)
 
 ## Acció 3.10: Resoldre el conflicte
 
@@ -74,8 +74,8 @@ git commit -m "merge: resolve security timeline conflict"
 git log --oneline --graph --all
 ```
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191225.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191225.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191235.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191235.png>)
 
-![alt text](<../captures/Captura de pantalla 2026-10-22 191243.png>)
+![alt text](<captures/Captura de pantalla 2026-10-22 191243.png>)
