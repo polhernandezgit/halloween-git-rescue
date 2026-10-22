@@ -63,4 +63,6 @@ git push -u origin feature-nightmare
 git push -u origin feature-sanctuary
 ```
 
-![Repositori publicat a GitHub](captures/bloc3-github.png)
+![alt text](<../captures/Captura de pantalla 2026-10-22 193537.png>)
+
+![alt text](<../captures/Captura de pantalla 2026-10-22 193545.png>)
